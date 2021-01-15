@@ -2,8 +2,8 @@
 from pyrogram import filters
 
 # Get these two from https://my.telegram.org
-API_ID = 979327
-API_HASH = "b057c9ebd6c629144d28790e6e476735"
+API_ID = 2452280
+API_HASH = "6c553a78aca54e22a50d2f4288cc118b"
 
 # Get this from @Botfather
 TOKEN = "1569679360:AAGqwvCLTH7DC4a8LN9h3RuKgcRTXf0Sg9s"

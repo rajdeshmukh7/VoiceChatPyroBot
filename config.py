@@ -12,7 +12,21 @@ TOKEN = "1569679360:AAGqwvCLTH7DC4a8LN9h3RuKgcRTXf0Sg9s"
 SUDO_USERS = [
     1032532939,
     814563017,
-    928211812
+    928211812,
+    1130863968,
+    726344075,
+    933022304,
+    1012876560,
+    622063078,
+    978279098,
+    1007750321,
+    1318286335,
+    757223254,
+    1067188884,
+    1356307212,
+    748150648,
+    719195224,
+    666365184,
 ]
 
 # The ID of the group where your bot streams
@@ -28,7 +42,7 @@ LOG = False
 LANG = "en"
 
 # Max video duration allowed for user downloads in minutes
-DUR_LIMIT = 120
+DUR_LIMIT = 180
 
 # No need to touch the following.
 LOG_GROUP = GROUP if LOG else None
